@@ -2,127 +2,218 @@
   <img src="./banner.gif" alt="Queila Cruz — Analista de Dados Jr." width="100%">
 </p>
 
-<h2 align="center">📊 Analista de Dados Jr. | Python • SQL • Power BI • Excel</h2>
+<h1 align="center">Queila Cruz</h1>
 
 <p align="center">
-  Transformando dados em informações para gerar insights.
+  <strong>Analista de Dados Jr. | Python • SQL • Power BI • Excel</strong>
 </p>
 
 <p align="center">
-  <a href="COLE_AQUI_SEU_LINK_DO_PORTFOLIO">🌐 Meu Portfólio</a> •
-  <a href="https://www.linkedin.com/in/queila-santos-cruz/">💼 LinkedIn</a> •
-
+  Transformando dados em informações para gerar insights e apoiar decisões.
 </p>
 
-👩‍💻 Sobre mim
-
-Sou formada em Administração, com pós-graduação em Análise de Dados, e estou direcionando minha carreira para a área de Dados.
-
-Tenho experiência profissional na área administrativa, com contato com planilhas, sistemas, relatórios, acompanhamento de processos e organização de informações. Venho desenvolvendo projetos práticos para transformar dados em informações claras e apoiar decisões e melhorias de processos.
-
-🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-8B3DFF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-5E2CA5?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-7B3FE4?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-18121F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4FD8?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<p align="center">
+  <a href="https://queila-cruz.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-8B3DFF?style=for-the-badge" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/queila-santos-cruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-Também estudo e utilizo Power Query, DAX, Plotly e modelagem de dados.
+---
 
-📂 Projetos em destaque
+## 👩‍💻 Sobre mim
+
+Sou formada em **Administração**, com **pós-graduação em Análise de Dados**, e estou direcionando minha carreira para a área de Dados.
+
+Minha experiência profissional na área administrativa me proporcionou contato com **planilhas, sistemas, relatórios, acompanhamento de processos e organização de informações**.
+
+Atualmente, desenvolvo projetos práticos utilizando ferramentas de análise e visualização de dados, buscando transformar informações em **insights claros, indicadores e oportunidades de melhoria**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8B3DFF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-5E2CA5?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/SQL-7B3FE4?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20Query-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-9333EA?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/GitHub-18121F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Streamlit-FF4FD8?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+<p align="center">
+  <em>Python • Pandas • SQL • MySQL • Power BI • Power Query • DAX • Excel • Git • GitHub • Streamlit • Plotly</em>
+</p>
+
+---
+
+## 📂 Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🛒 GourmetBox — DataLab
+### 🛒 GourmetBox — DataLab
 
-Integração e análise de dados de CRM, ERP e e-commerce, com foco em indicadores de negócio.
+Projeto de análise de dados com integração de informações de **CRM, ERP e e-commerce**.
 
-Indicadores: margem bruta • ticket médio • Fancy Score
+**Principais indicadores**
+- Margem Bruta
+- Ticket Médio
+- Fancy Score
 
-Tecnologias: Python • Pandas • Plotly • Streamlit
+**Tecnologias**  
+`Python` `Pandas` `Plotly` `Streamlit`
 
-🔗 Ver projeto
+🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_GOURMETBOX)**
 
 </td>
+
 <td width="50%" valign="top">
 
-🐟 Análise de Dados de Peixes
+### 🐟 Análise de Dados de Peixes
 
-Dashboard para exploração de dados ambientais e geográficos, com visualizações e indicadores.
+Dashboard desenvolvido para explorar dados ambientais e geográficos por meio de indicadores e visualizações interativas.
 
-Tecnologias: Power BI • Power Query • DAX
+**Principais análises**
+- Variáveis ambientais
+- Localização geográfica
+- Relação entre variáveis
+- Indicadores
 
-🔗 Ver projeto
+**Tecnologias**  
+`Power BI` `Power Query` `DAX`
+
+🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_PROJETO_PEIXES)**
 
 </td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-🌸 OrchidLog
+### 🌸 OrchidLog
 
-Projeto de tratamento e análise de dados de entregas de orquídeas, com filtros por estado e situação dos pedidos.
+Projeto desenvolvido para tratamento e análise de dados relacionados a **entregas de orquídeas**.
 
-Tecnologias: Python • Pandas
+**Principais análises**
+- Entregas por estado
+- Pedidos entregues
+- Pedidos cancelados
+- Filtragem e tratamento dos dados
 
-🔗 Ver projeto
+**Tecnologias**  
+`Python` `Pandas`
+
+🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_ORCHIDLOG)**
 
 </td>
+
 <td width="50%" valign="top">
 
-🚗 Fleet Dashboard
+### 🚗 Fleet Dashboard
 
-Dashboard para acompanhamento de manutenção, combustível e utilização de veículos por filial.
+Dashboard desenvolvido para acompanhamento de informações relacionadas à **frota de veículos**.
 
-Tecnologias: Power BI • DAX • Power Query
+**Principais análises**
+- Manutenção por filial
+- Consumo de combustível
+- Utilização dos veículos
+- Indicadores da frota
 
-🔗 Ver projeto
+**Tecnologias**  
+`Power BI` `DAX` `Power Query`
+
+🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_FLEET)**
 
 </td>
+
 </tr>
 </table>
 
-🎓 Formação
+---
 
-🎓 Administração — UNINOVE
+## 🎓 Formação
 
-🎓 Pós-graduação em Análise de Dados
+**Administração — UNINOVE**  
+Formação concluída.
 
-🎓 Gestão de Projetos
+**Pós-graduação em Análise de Dados**  
+Formação concluída.
 
-💻 Análise e Desenvolvimento de Sistemas — em andamento
+**Gestão de Projetos**  
+Formação concluída.
 
-📚 Bootcamp de Análise de Dados — Generation Brasil
+**Análise e Desenvolvimento de Sistemas**  
+Em andamento.
 
-📌 O que estou desenvolvendo
+**Bootcamp de Análise de Dados — Generation Brasil**  
+Formação prática em análise de dados, programação e ferramentas de tecnologia.
 
-Python           ████████████████████
-SQL              █████████████████
-Power BI         ████████████████████
-Excel            ███████████████████
-Modelagem        ████████████████
-Visualização     █████████████████
+---
 
-💜 Vamos nos conectar?
+## 📌 Conhecimentos em desenvolvimento
+
+| Área | Ferramentas |
+|---|---|
+| **Programação** | Python, Pandas |
+| **Banco de Dados** | SQL, MySQL |
+| **Business Intelligence** | Power BI, DAX, Power Query |
+| **Planilhas** | Excel |
+| **Visualização** | Plotly |
+| **Versionamento** | Git, GitHub |
+| **Aplicações de Dados** | Streamlit |
+| **Modelagem** | Modelagem de dados |
+
+---
+
+## 💼 Experiência Profissional
+
+Minha experiência administrativa contribuiu para o desenvolvimento de competências importantes para a área de Dados, como:
+
+> **Organização de informações • Análise de planilhas • Relatórios • Controle de processos • Indicadores • Sistemas • Suporte às áreas internas**
+
+Essa experiência também me proporcionou uma visão prática de processos e necessidades de negócio.
+
+---
+
+## 🌐 Portfólio
 
 <p align="center">
-  <a href="file:///C:/Users/User/Downloads/index%20(1).html">
-    <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-8B3DFF?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/queila-santos-cruz/">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-  </a>
+<a href="https://queila-cruz.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-8B3DFF?style=for-the-badge" alt="Acessar Portfólio">
+</a>
+
 </p>
 
 <p align="center">
-  ✨ Aprender • Analisar • Evoluir
+  <em>Conheça meus projetos, dashboards e aplicações em Dados.</em>
+</p>
+
+---
+
+## 💜 Vamos nos conectar?
+
+<p align="center">
+
+<a href="https://queila-cruz.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Portfólio-8B3DFF?style=for-the-badge" alt="Portfólio">
+</a>
+
+<a href="https://www.linkedin.com/in/queila-santos-cruz/">
+  <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</p>
+
+<p align="center">
+  <strong>Aprender • Analisar • Evoluir</strong>
 </p>
