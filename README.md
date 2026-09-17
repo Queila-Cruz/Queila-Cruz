@@ -99,20 +99,25 @@ Dashboard desenvolvido para explorar dados ambientais e geográficos por meio de
 
 <td width="50%" valign="top">
 
-### 🌸 OrchidLog
+### 🧸 Dashboard de Vendas
 
-Projeto desenvolvido para tratamento e análise de dados relacionados a **entregas de orquídeas**.
+Projeto desenvolvido em **Power BI** para análise de dados relacionados a **vendas de brinquedos**.
 
 **Principais análises**
-- Entregas por estado
-- Pedidos entregues
-- Pedidos cancelados
-- Filtragem e tratamento dos dados
 
-**Tecnologias**  
-`Python` `Pandas`
+* Vendas por localização
+* Análise por categoria
+* Desempenho por produto
+* Unidades vendidas
+* Vendas em £
+* Filtros por período
 
-🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_ORCHIDLOG)**
+**Tecnologias**
+`Power BI` `Power Query` `DAX`
+
+🔗 **[Ver projeto →](https://github.com/Queila-Cruz/dashboard-power-bi/tree/main)**
+
+
 
 </td>
 
@@ -131,7 +136,7 @@ Dashboard desenvolvido para acompanhamento de informações relacionadas à **fr
 **Tecnologias**  
 `Power BI` `DAX` `Power Query`
 
-🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_FLEET)**
+🔗 **[Ver projeto →](https://datastudio.google.com/s/jLQcQLFSct0)**
 
 </td>
 
