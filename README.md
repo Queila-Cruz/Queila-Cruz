@@ -71,7 +71,7 @@ Projeto de análise de dados com integração de informações de **CRM, ERP e e
 **Tecnologias**  
 `Python` `Pandas` `Plotly` `Streamlit`
 
-🔗 **[Ver projeto →](COLE_AQUI_O_LINK_DO_GOURMETBOX)**
+🔗 **[Ver projeto →](https://projetocaseefeitofancy-jgy8yg8tcl4ptpqhjbkhcf.streamlit.app/)**
 
 </td>
 
